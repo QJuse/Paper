@@ -1,0 +1,43 @@
+https://github.com/wanghaisheng/awesome-ocr/issues/86,,,,,
+大类,,,,,
+,时间,会议,题目,关键词,摘要
+检测-Faster-RCNN,2017,ICDAR,Table Detection using Deep Learning,印刷文档；表格检测；版面分析；Faster R-CNN,大量技术依赖手工特征，对版式的鲁棒性不够。本文用Faster R-CNN的方法，在UNLV数据集上评测
+分割-U-Net,2019,,A Two-Stage Method for Text Line Detection in Historical Documents,文本行检测，图像分割，U-Net，像素级标签；历史文档,两阶段模型；ARU-Net标记像素类别；小数据预测的网络作为第二阶段的输入。使用ICDAR2017数据集
+ML,2018,,A probabilistic framework for handwritten text line segmentation,手写文档；版面分析；文本行分割；EM算法；概率图模型,
+检测-YOLOv2,2017,,A Data Driven Approach for Compound Figure Separation Using Convolutional Neural Networks,科学文档；YOLOv2;迁移学习；样本生成,ImageCLEF医学数据集
+标注,2015,,A Hybrid Technique for Annotating Book Tables,"表格标注；DBpedia Spotlight, Google Snippets",
+检测-CRF,2018,,A Saliency-based Convolutional Neural Network for Table and Chart Detection in Digitized Documents,表格图标检测；CNN + CRF,ICDAR 2013
+分类,2017,,Analysis of Convolutional Neural Networks for Document Image Classification,文档图片分类；CNN,"what aspects of CNNs most affect performance on document images.
+RVL-CDIP数据集"
+分类,2000,,Classification of Document Page Images,文档分类,
+分割-CNN,2017,,Convolutional Neural Networks for Page Segmentation of Historical Document Images,古籍文档；页面分割；单层卷积,
+分类,2017,,Cutting the Error by Half: Investigation of Very Deep CNN and Advanced Training Strategies for Document Image Classification,文档分类；迁移学习；CNN,"Tobacco-3482 
+RVL-CDIP"
+数据-评价,2012,,"Dataset, ground-truth and performance metrics for table detection evaluation",表格检测；数据集；评价标准,
+检测-Faster R-CNN,2017,,"DeepDeSRT:
+Deep Learning for Detection and Structure
+Recognition of Tables in Document Images",表格检测；表格识别；pdf文件,行列-单元格的分析
+分类,2018,,"Document Image Classification with Intra-Domain
+Transfer Learning and Stacked Generalization of
+Deep Convolutional Neural Networks",文档分类；,
+表格结构,2009,,"Effective and Efficient Semantic Table
+Interpretation using TableMiner",表格结构；TableMiner+,
+分类-检索,2015,,"Evaluation of Deep Convolutional Nets for
+Document Image Classification and Retrieval",文档分类；检索；评价标准；CNNs,
+检测-OverFeat,2018,,"Extracting Scientific Figures with
+Distantly Supervised Neural Networks",模糊监督？,
+分割-FCN,2018,,Fully Convolutional Neural Networks for Page Segmentation of Historical Document Images,文档分割；FCN；前景像素精度,
+文档概括,2018,,Generating Schema Labels through Dataset Content Analysis,文档概括,
+文档聚类,2017,,Improving Document Clustering by Eliminating Unnatural Language,文档聚类,利用反常语言信息
+检测,2017,,Fast CNN-based document layout analysis,,
+分割,2017,,"Open Evaluation Tool for Layout Analysis
+of Document Images",像素级评价标准,
+分割,2019,,Page Stream Segmentation with Convolutional Neural Nets Combining Textual and Visual Features,分割,
+数据,2019,,"PubLayNet: largest dataset ever for document
+layout analysis",,
+分类,2017,,"Real-Time Document Image Classification using
+Deep CNN and Extreme Learning Machines",DeepDocClassifier,
+规则,2017,,"Rule-Based Canonicalization of
+Arbitrary Tables in Spreadsheets",,
+图表数据,2017,,"Scatteract: Automated extraction of data from
+scatter plots",,
